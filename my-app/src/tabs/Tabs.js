@@ -17,6 +17,7 @@ export default class Tab extends Component{
         return(
            <div className='tab'>
                 {desc}
+                <Button/>
            </div>
         )
                
